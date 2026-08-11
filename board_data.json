@@ -1,0 +1,84 @@
+{
+  "executive_board": [
+    {
+      "id": 1,
+      "name": "Alex Mercer",
+      "title": "Lab Director / President",
+      "major": "Aerospace Engineering, Senior",
+      "bio": "Oversees all SSPL mission operations, NASA challenge teams, and strategic university partnerships.",
+      "email": "arm5123@psu.edu",
+      "image": "assets/exec_director.jpg",
+      "placeholder_label": "Exec Slot 1: Lab Director"
+    },
+    {
+      "id": 2,
+      "name": "Samantha Vance",
+      "title": "Chief Systems Engineer",
+      "major": "Mechanical Engineering, Senior",
+      "bio": "Leads systems architecture, mission concept reviews, and interdisciplinary subsystem integration.",
+      "email": "sjv5089@psu.edu",
+      "image": "assets/exec_systems.jpg",
+      "placeholder_label": "Exec Slot 2: Chief Systems Engineer"
+    },
+    {
+      "id": 3,
+      "name": "Marcus Chen",
+      "title": "Flight Software Lead",
+      "major": "Computer Science & Engineering, Junior",
+      "bio": "Manages onboard flight software architectures, telemetry downlinks, and real-time CubeSat command systems.",
+      "email": "mxc5432@psu.edu",
+      "image": "assets/exec_software.jpg",
+      "placeholder_label": "Exec Slot 3: Software Lead"
+    },
+    {
+      "id": 4,
+      "name": "Elena Rostova",
+      "title": "Payload & Research Lead",
+      "major": "Physics & Engineering Science, Senior",
+      "bio": "Directs lunar payload development, spectral analysis instruments, and microwave plastic pyrolysis research.",
+      "email": "ebr5102@psu.edu",
+      "image": "assets/exec_payload.jpg",
+      "placeholder_label": "Exec Slot 4: Payload Lead"
+    },
+    {
+      "id": 5,
+      "name": "David K. Miller",
+      "title": "Electrical Power Systems Lead",
+      "major": "Electrical Engineering, Senior",
+      "bio": "Specializes in solar array power distribution, PCB prototyping, and battery management for high-altitude payloads.",
+      "email": "dkm5211@psu.edu",
+      "image": "assets/exec_eps.jpg",
+      "placeholder_label": "Exec Slot 5: EPS Lead"
+    },
+    {
+      "id": 6,
+      "name": "Jordan Hayes",
+      "title": "Structures & Thermal Lead",
+      "major": "Aerospace Engineering, Junior",
+      "bio": "Responsible for CAD modeling, FEA thermal simulations, and mechanical integration of CubeSat chassis.",
+      "email": "jkh5901@psu.edu",
+      "image": "assets/exec_structures.jpg",
+      "placeholder_label": "Exec Slot 6: Structures Lead"
+    },
+    {
+      "id": 7,
+      "name": "Priya Patel",
+      "title": "Operations & Logistics Manager",
+      "major": "Industrial Engineering, Senior",
+      "bio": "Coordinates cleanroom logistics, lab safety compliance, testing schedules, and flight readiness reviews.",
+      "email": "pxp5319@psu.edu",
+      "image": "assets/exec_ops.jpg",
+      "placeholder_label": "Exec Slot 7: Operations Lead"
+    },
+    {
+      "id": 8,
+      "name": "Lucas Rodriguez",
+      "title": "Outreach & Public Relations Lead",
+      "major": "Communications & STEM Education, Junior",
+      "bio": "Manages K-12 STEM education events, community outreach campaigns, website updates, and media relations.",
+      "email": "lxr5188@psu.edu",
+      "image": "assets/exec_outreach.jpg",
+      "placeholder_label": "Exec Slot 8: Outreach Lead"
+    }
+  ]
+}

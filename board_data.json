@@ -1,6 +1,16 @@
 {
   "executive_board": [
     {
+      "id": 0,
+      "name": "Dr. Sven Bilén",
+      "title": "Faculty Advisor",
+      "major": "Professor of Aerospace Engineering, Electrical Engineering, and Engineering Design",
+      "bio": "Faculty advisor and Owner of Lab",
+      "email": "sbilen@psu.edu",
+      "image": "assets/sven.jpg",
+      "placeholder_label": "Exec Slot 0: Faculty Advisor"
+    },
+    {
       "id": 1,
       "name": "Julian Ruocco",
       "title": "Lab Lead",

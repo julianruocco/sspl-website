@@ -2,83 +2,63 @@
   "executive_board": [
     {
       "id": 1,
-      "name": "Alex Mercer",
-      "title": "Lab Director / President",
+      "name": "Julian Ruocco",
+      "title": "Lab Lead",
       "major": "Aerospace Engineering, Senior",
       "bio": "Oversees all SSPL mission operations, NASA challenge teams, and strategic university partnerships.",
       "email": "arm5123@psu.edu",
-      "image": "assets/exec_director.jpg",
-      "placeholder_label": "Exec Slot 1: Lab Director"
+      "image": "assets/julian.jpg",
+      "placeholder_label": "Exec Slot 1: Lab Lead"
     },
     {
       "id": 2,
-      "name": "Samantha Vance",
-      "title": "Chief Systems Engineer",
-      "major": "Mechanical Engineering, Senior",
-      "bio": "Leads systems architecture, mission concept reviews, and interdisciplinary subsystem integration.",
-      "email": "sjv5089@psu.edu",
-      "image": "assets/exec_systems.jpg",
-      "placeholder_label": "Exec Slot 2: Chief Systems Engineer"
+      "name": "Samuel Mauro",
+      "title": "Lab Manager",
+      "major": "Aerospace Engineering, Senior",
+      "bio": "Manages all events, oversees communication, head of student involvement, and business lead.",
+      "email": "sjm7562@psu.edu",
+      "image": "assets/samuel.jpg",
+      "placeholder_label": "Exec Slot 2: Lab Manager"
     },
     {
       "id": 3,
-      "name": "Marcus Chen",
-      "title": "Flight Software Lead",
-      "major": "Computer Science & Engineering, Junior",
-      "bio": "Manages onboard flight software architectures, telemetry downlinks, and real-time CubeSat command systems.",
-      "email": "mxc5432@psu.edu",
-      "image": "assets/exec_software.jpg",
-      "placeholder_label": "Exec Slot 3: Software Lead"
+      "name": "Aum Dave",
+      "title": "Vanguard Lead",
+      "major": "Aerospace Engineering, Senior",
+      "bio": "Leads the Student Training Program and student involvement",
+      "email": "azd6041@psu.edu",
+      "image": "assets/aum.jpg",
+      "placeholder_label": "Exec Slot 3: Vanguard Lead"
     },
     {
       "id": 4,
-      "name": "Elena Rostova",
-      "title": "Payload & Research Lead",
-      "major": "Physics & Engineering Science, Senior",
-      "bio": "Directs lunar payload development, spectral analysis instruments, and microwave plastic pyrolysis research.",
-      "email": "ebr5102@psu.edu",
-      "image": "assets/exec_payload.jpg",
-      "placeholder_label": "Exec Slot 4: Payload Lead"
+      "name": "Marisa Tomarello",
+      "title": "Graduate Advisor",
+      "major": "Aerospace Engineering, Master's Student",
+      "bio": "Assits in all areas of the lab providing clear.",
+      "email": "mct5384@psu.edu",
+      "image": "assets/aum.jpg",
+      "placeholder_label": "Exec Slot 4: Graduate Advisor"
     },
     {
       "id": 5,
-      "name": "David K. Miller",
-      "title": "Electrical Power Systems Lead",
-      "major": "Electrical Engineering, Senior",
-      "bio": "Specializes in solar array power distribution, PCB prototyping, and battery management for high-altitude payloads.",
-      "email": "dkm5211@psu.edu",
-      "image": "assets/exec_eps.jpg",
-      "placeholder_label": "Exec Slot 5: EPS Lead"
+      "name": "Charles McManus",
+      "title": "RECLAIM Chief Engineer",
+      "major": "Aerospace Engineering, Senior",
+      "bio": "Leads initiatives for developing RECLAIM system, a modular recycling system for a future lunar colony",
+      "email": "cdm6041@psu.edu",
+      "image": "assets/charlie.jpg",
+      "placeholder_label": "Exec Slot 5: RECLAIM Chief Engineer"
     },
     {
       "id": 6,
-      "name": "Jordan Hayes",
-      "title": "Structures & Thermal Lead",
-      "major": "Aerospace Engineering, Junior",
-      "bio": "Responsible for CAD modeling, FEA thermal simulations, and mechanical integration of CubeSat chassis.",
-      "email": "jkh5901@psu.edu",
-      "image": "assets/exec_structures.jpg",
-      "placeholder_label": "Exec Slot 6: Structures Lead"
+      "name": "Luke Waszyn",
+      "title": "Ground Station Chief Engineer",
+      "major": "Engineering Science, Senior",
+      "bio": "Reconstructing and Maintaining Penn State's UHF ground station",
+      "email": "ljw5734@psu.edu",
+      "image": "assets/luke.jpg",
+      "placeholder_label": "Exec Slot 6: Ground Station Chief Engineer"
     },
-    {
-      "id": 7,
-      "name": "Priya Patel",
-      "title": "Operations & Logistics Manager",
-      "major": "Industrial Engineering, Senior",
-      "bio": "Coordinates cleanroom logistics, lab safety compliance, testing schedules, and flight readiness reviews.",
-      "email": "pxp5319@psu.edu",
-      "image": "assets/exec_ops.jpg",
-      "placeholder_label": "Exec Slot 7: Operations Lead"
-    },
-    {
-      "id": 8,
-      "name": "Lucas Rodriguez",
-      "title": "Outreach & Public Relations Lead",
-      "major": "Communications & STEM Education, Junior",
-      "bio": "Manages K-12 STEM education events, community outreach campaigns, website updates, and media relations.",
-      "email": "lxr5188@psu.edu",
-      "image": "assets/exec_outreach.jpg",
-      "placeholder_label": "Exec Slot 8: Outreach Lead"
-    }
   ]
 }

@@ -511,3 +511,24 @@ footer {
         padding: 3rem 5%;
     }
 }
+/* Prevent navigation links and title from vertical text wrapping */
+.brand-text h1, 
+.brand-text span, 
+.nav-links a {
+    white-space: nowrap !important;
+}
+
+/* Allow navigation bar to adapt cleanly inside narrow embed containers */
+.nav-links {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+}
+
+@media (max-width: 900px) {
+    .navbar {
+        flex-direction: column;
+        gap: 12px;
+        padding: 0.8rem 2%;
+    }
+}
